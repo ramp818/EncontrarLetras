@@ -16,7 +16,7 @@ void funcion(string palabra1,string palabra2)
             palabra3+=palabra1[i];
         }
     }
-    cout<<palabra3;
+    cout<<palabra3<<endl;
 }
 
 int main()
